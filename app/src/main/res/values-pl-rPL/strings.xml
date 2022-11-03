@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="delete_all">Usun Wszystkie</string>
+    <string name="add_task">Dodaj Zadanie</string>
+    <string name="addBtn">DODAJ</string>
+    <string name="item_added">Zadanie dodane</string>
+    <string name="really_delete">Naprawde chcesz usunac zadanie?</string>
+    <string name="task_cant_empty">Error: Zadanie nie moze byc puste</string>
+    <string name="del_btn">Usun</string>
+    <string name="item_removed_info">Z;adania usuniete</string>
+    <string name="no_btn">Nie</string>
+    <string name="yes_btn">Tak</string>
+    <string name="change_lang">Zmien jezyk na Polski</string>
+    <string name="change_lang2">Zmen jezyk na Angielski</string>
+</resources>

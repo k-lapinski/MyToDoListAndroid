@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="delete_all">Delete All</string>
+    <string name="add_task">Add Task</string>
+    <string name="addBtn">ADD</string>
+    <string name="item_added">Item is added</string>
+    <string name="really_delete">Do you want to delete this item from the list?</string>
+    <string name="task_cant_empty">Error: Task cant be empty</string>
+    <string name="del_btn">Delete</string>
+    <string name="item_removed_info">Items are removed</string>
+    <string name="no_btn">No</string>
+    <string name="yes_btn">Yes</string>
+    <string name="change_lang">Change Language on Polish</string>
+    <string name="change_lang2">Change Language on English</string>
+    <string name="done_24" translatable="false">&#x2713;</string>
+    <string name="not_done_24" translatable="false">&#xe7f7;</string>
+</resources>
